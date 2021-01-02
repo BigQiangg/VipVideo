@@ -14,6 +14,7 @@
 		4FBF02DB2216B1C5007DB801 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4FBF02DA2216B1C5007DB801 /* README.md */; };
 		4FC0FB0623C824F200ADD778 /* HLCollectionViewItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC0FB0423C824F200ADD778 /* HLCollectionViewItem.m */; };
 		4FC0FB0723C824F200ADD778 /* HLCollectionViewItem.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4FC0FB0523C824F200ADD778 /* HLCollectionViewItem.xib */; };
+		516979DE25A0C56100A459AB /* plist.json in Resources */ = {isa = PBXBuildFile; fileRef = 516979DD25A0C56100A459AB /* plist.json */; };
 		C7240AB11FA17AF7000684F1 /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = C7240AAF1FA17AF7000684F1 /* JSONKit.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		C72BBE041F9DB2EC00C5141E /* iconStatus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C72BBE031F9DB2EC00C5141E /* iconStatus@2x.png */; };
 		C72BBE231F9DE8B000C5141E /* NSView+ZCAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = C72BBE111F9DE8B000C5141E /* NSView+ZCAddition.m */; };
@@ -39,6 +40,7 @@
 		4FC0FB0323C824F200ADD778 /* HLCollectionViewItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HLCollectionViewItem.h; sourceTree = "<group>"; };
 		4FC0FB0423C824F200ADD778 /* HLCollectionViewItem.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HLCollectionViewItem.m; sourceTree = "<group>"; };
 		4FC0FB0523C824F200ADD778 /* HLCollectionViewItem.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HLCollectionViewItem.xib; sourceTree = "<group>"; };
+		516979DD25A0C56100A459AB /* plist.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = plist.json; sourceTree = "<group>"; };
 		C7240AAF1FA17AF7000684F1 /* JSONKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONKit.m; sourceTree = "<group>"; };
 		C7240AB01FA17AF7000684F1 /* JSONKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONKit.h; sourceTree = "<group>"; };
 		C72BBE031F9DB2EC00C5141E /* iconStatus@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconStatus@2x.png"; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				4F2DDCAA2311275E00A105C5 /* vlist.json */,
+				516979DD25A0C56100A459AB /* plist.json */,
 				C72BBE131F9DE8B000C5141E /* MainMenu.h */,
 				C72BBE141F9DE8B000C5141E /* MainMenu.m */,
 				C72BBE171F9DE8B000C5141E /* VipURLManager.h */,
@@ -213,6 +216,7 @@
 				C7D9E8481F9DA1BB00730A34 /* Main.storyboard in Resources */,
 				4FC0FB0723C824F200ADD778 /* HLCollectionViewItem.xib in Resources */,
 				C72BBE041F9DB2EC00C5141E /* iconStatus@2x.png in Resources */,
+				516979DE25A0C56100A459AB /* plist.json in Resources */,
 				4F2DDCAB2311275E00A105C5 /* vlist.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

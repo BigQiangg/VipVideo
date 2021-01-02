@@ -151,10 +151,18 @@
 {
     if ([jsonArray isKindOfClass:[NSArray class]]) {
         NSMutableArray *urlsArray = [NSMutableArray array];
-        for (NSDictionary *dict in jsonArray) {
+//        for (NSDictionary *dict in jsonArray) {
+//            VipUrlItem *item = [[VipUrlItem alloc] init];
+//            item.title = dict[@"name"];
+//            item.url = dict[@"url"];
+//            [urlsArray addObject:item];
+//        }
+        
+        for (NSString *url in jsonArray) {
             VipUrlItem *item = [[VipUrlItem alloc] init];
-            item.title = dict[@"name"];
-            item.url = dict[@"url"];
+//            item.title = dict[@"name"];
+            item.url = url;
+            item.title = url;
             [urlsArray addObject:item];
         }
         

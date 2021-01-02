@@ -258,6 +258,9 @@
     [VipURLManager sharedInstance].finalUrl = webView.URL.absoluteString;
 }
 
+- (void)webView:(WKWebView *)webView didFailProvisionalNavigation:(WKNavigation *)navigation withError:(NSError *)error{
+    
+}
 
 - (void)vipVideoCurrentApiDidChange:(NSNotification *)notification{
     
