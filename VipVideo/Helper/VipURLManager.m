@@ -157,6 +157,11 @@
 //            item.url = dict[@"url"];
 //            [urlsArray addObject:item];
 //        }
+        VipUrlItem *item = [[VipUrlItem alloc] init];
+//            item.title = dict[@"name"];
+        item.url = @"";
+        item.title = @"原始播放";
+        [urlsArray addObject:item];
         
         for (NSString *url in jsonArray) {
             VipUrlItem *item = [[VipUrlItem alloc] init];
