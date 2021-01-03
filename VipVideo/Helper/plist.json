@@ -86,13 +86,13 @@
         "https://dhyjiexi.arpps.com/?url=",
         "https://s1y2.com/?url=",
         "https://www.cuan.la/?url=",
-        "https://jqaaa.com/jq3/?url=",&amp;url=",
+        "https://jqaaa.com/jq3/?url=&amp;url=",
         "https://jx.xdiaosi.com/?url=",
         "https://www.4080jx.cc/jx/?url=",
         "https://jx.70808.net/?url=",
         "https://jx.rdhk.net/?url=",
         "https://api.xdiaosi.com/?url=",
-        "https://jqaaa.com/jq3/?url=",&amp;url=",
+        "https://jqaaa.com/jq3/?url=&amp;url=",
         "https://jx.52a.ink/?url=",
         "https://www.1717yun.com/jx/ty.php?url=",
         "https://api.taovb.com/?url=",
@@ -100,7 +100,7 @@
         "https://cdn.yangju.vip/k/?url=",
         "https://www.sfsft.com/admin.php?url=",
         "https://api.jiexi.la/?url=",
-        "https://atyys.com/jx.php?id=",0&url=",
+        "https://atyys.com/jx.php?id=0&url=",
         "https://jx.htv009.com/?url=",
         "https://api.baiyug.vip/index.php?url=",
         "https://v.7cyd.com/vip/?url=",
@@ -161,7 +161,7 @@
         "https://17kyun.com/api.php?url=",
         "https://jx.du2.cc/?url=",
         "https://78sy.letao99.cn:997/?url=",
-        "https://jx.jiubojx.com/bei/?url=",&referer=",
+        "https://jx.jiubojx.com/bei/?url=&referer=",
         "https://jx.hnhsn.com/?url=",
         "https://17kyun.com/jx.php?url=",
         "https://jx.htv009.com/?url=",
@@ -182,6 +182,6 @@
         "https://api.youoka.com/?url=",
         "https://jx.dianyingguan.cn/vip/vip.php?xlyun=",
         "https://xvip.jiubojx.com/vip/?url="
-    ]
+    ],
 }
 
